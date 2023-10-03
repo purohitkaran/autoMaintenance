@@ -1,0 +1,8 @@
+Make		Model		Year		Type
+Tesla		S		2021		SEDAN
+Jeep		Wrangler		2019		SUV
+Toyota		Etios CR		2018		CROSSTEK
+Chevrolet 	Cruz		2015		SEDAN
+Lexus		NSX		2018		SUV
+Disney		McQueen		2006		SEDAN
+Subaru		Crosstrek		2022		CROSSTEK
